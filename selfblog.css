@@ -1,0 +1,104 @@
+/* we are making our own web page which states our profile to the companies*/
+body{
+
+ }
+ #div1 {
+    padding: 55px;
+    background-color: #ffffff;
+    margin: 15px 65px 35px 65px ;
+    border-radius: 4px 4px 0px 0px;
+    
+    background-color: #F76C6C;
+    box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+}
+ #div1 img{
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+    float: left;
+    margin: 10px;
+    
+ }
+
+#div1 #div1a{
+    margin-left:250px ; 
+    color: #ffffff;
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+#div1 #div1b{
+    color: #ffffff;
+    margin-left:250px ;
+}
+#div1 #div1c img{
+    width:40px;
+    height:40px;
+    background-image: grey;
+    border-radius: 50%;
+    margin-left:250px;
+}
+#div1 #div1d img{
+    width:40px;
+    height:40px;
+    background-image: rgb(109, 103, 103);
+    border-radius: 50%;
+
+}
+#div2{
+  background-color:#FF6525;
+  font-size: 17px;
+  color: #ffffff;
+  padding: 1%;
+  float:left;
+  margin: 10px 65px 35px 65px;
+  border-radius: 4px 4px 0px 0px;
+  box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+}
+#div5{
+    background-color:#8FC1EC;
+    font-size: 17px;
+    color: #ffffff;
+    padding: 0.5%;
+    float:right;
+    margin: 93px 365px 0px 0px;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+}
+
+#div3{
+  background-color:#b7903c;
+  font-size: 17px;
+  color: #ffffff;
+  padding: 0.5%;
+  float: left;
+  margin: 13px 65px 20px 65px;
+  border-radius: 4px 4px 0px 0px;
+  box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+} 
+#div3 a{
+    color: #ffffff;
+    font-style: unset;
+}
+
+#div4{
+    background-color:#AFD275;
+    font-size: 17px;
+    color: #ffffff;
+    float: left; 
+    padding: 0.5%;
+    margin: 35px 0px 35px 65px;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+}
+
+ #div6{
+    background-color:#b666d2;
+    font-size: 17px;
+    color: #ffffff;
+    padding: 1% 77% 1% 1%;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: 8px 10px 8px 0 rgb(152,152,152);
+    margin: 35px 65px 25px 65px;
+    float: left;
+}
